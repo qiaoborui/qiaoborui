@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiaoborui)
 
 ![](https://raw.githubusercontent.com/qiaoborui/qiaoborui/main/profile-snake-contrib/github-contribution-grid-snake.svg)
