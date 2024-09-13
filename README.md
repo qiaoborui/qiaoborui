@@ -16,4 +16,11 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiaoborui)
 
-![](https://raw.githubusercontent.com/qiaoborui/qiaoborui/main/profile-snake-contrib/github-contribution-grid-snake.svg)
+- ⌨️  Backend Developer
+- 🔭 I’m currently working on FlowGPT
+- 🌱 I’m currently learning Typescript, Kafka, Kubernetes
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qiaoborui/qiaoborui/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qiaoborui/qiaoborui/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qiaoborui/qiaoborui/output/github-contribution-grid-snake.svg">
+</picture>
