@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiaoborui)
 
-![Today](https://wakapi.borry.org/api/badge/borui/interval:today?label=today) ![month](https://wakapi.borry.org/api/badge/borui/borui/interval:30_days?label=last%2030d) ![all](https://img.shields.io/endpoint?url=https://wakapi.borry.org/api/compat/shields/v1/borui/interval:all_time&label=All%20time&color=blue)
+![month](https://wakapi.borry.org/api/badge/borui/borui/interval:30_days?label=last%2030d) ![all](https://img.shields.io/endpoint?url=https://wakapi.borry.org/api/compat/shields/v1/borui/interval:all_time&label=All%20time&color=blue)
 - ⌨️  Backend Developer
 - 🔭 I’m currently working on FlowGPT
 - 🌱 I’m currently learning Typescript, Kafka, Kubernetes
