@@ -1,7 +1,8 @@
 ### Hi there 👋
-
+[![Tokens Stats](https://tokens.ci/api/embed/qiaoborui/svg?theme=light&template=graph&tokens=compact&cost=compact)](https://tokens.ci/u/qiaoborui)
 <!--
 **qiaoborui/qiaoborui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,9 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiaoborui)
 
-![month](https://wakapi.borry.org/api/badge/borui/borui/interval:30_days?label=last%2030d) ![all](https://img.shields.io/endpoint?url=https://wakapi.borry.org/api/compat/shields/v1/borui/interval:all_time&label=All%20time&color=blue)
 - ⌨️  Backend Developer
 - 🔭 I’m currently working on FlowGPT
 - 🌱 I’m currently learning Typescript, Kafka, Kubernetes
@@ -25,6 +24,3 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qiaoborui/qiaoborui/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qiaoborui/qiaoborui/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-![Wakapi Week stats](https://github-readme-stats.vercel.app/api/wakatime?username=borui&api_domain=wakapi.borry.org&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Year%20Stats&layout=compact)
